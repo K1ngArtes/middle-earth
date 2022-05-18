@@ -1,5 +1,5 @@
 # Middle Earth
-Middle Earth is minimalistic web middleware in Go
+Middle Earth is minimalistic web middleware in Go, inspired by [Negroni](https://github.com/urfave/negroni)
 
 ## Step 1
 - [ ] A minimalistic library that logs every incoming request
