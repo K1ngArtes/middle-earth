@@ -11,3 +11,4 @@ Library that provides a default solution for the user to
 ## Step 3
 Library that provides a default solution for the user to
 - [ ] Provider user the ability to create his own middleware
+- [ ] Add tests
